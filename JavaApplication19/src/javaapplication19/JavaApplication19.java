@@ -17,6 +17,7 @@ public class JavaApplication19 {
         // TODO code application logic here
         int zapatos;
         //Hola esto es mi varibale, vamos a por ti Jerusalén.
+        //hola que tal como estas maquina
         
        
     }
